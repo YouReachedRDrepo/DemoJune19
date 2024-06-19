@@ -1,1 +1,2 @@
 This is B file
+changes in f2
